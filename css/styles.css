@@ -139,6 +139,10 @@
 
 /* timeline styles */
 
+div#timeline-wrapper {
+  margin: 20px auto;
+}
+
 .checkcaption {
   text-align: center;
   margin-top: 10px;
