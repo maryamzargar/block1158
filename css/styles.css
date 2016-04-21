@@ -139,8 +139,8 @@
 
 /* timeline styles */
 
-div#timeline-wrapper {
-  margin: 20px auto;
+.timeline-wrapper {
+  margin: 50px auto;
 }
 
 .checkcaption {
