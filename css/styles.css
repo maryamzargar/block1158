@@ -227,7 +227,7 @@ div#timeline .dot:hover {
           transform: scale(1.2);
 }
 div#timeline .dot date {
-  font-family: roboto;
+  font-family: helvatica;
   font-size: 1.1rem;
   display: block;
   position: relative;
@@ -259,7 +259,7 @@ article date {
   text-align: right;
 }
 article h2 {
-  font-family: merriweather, sans-serif;
+  font-family: helvatica;
   font-size: 5rem;
   padding: 10px 0;
   border-bottom: solid #111 2px;
@@ -294,7 +294,7 @@ div.mask article date {
   text-align: right;
 }
 div.mask article h2 {
-  font-family: merriweather, sans-serif;
+  font-family: helvatica;
   font-size: 5rem;
   padding: 10px 0;
   border-bottom: solid #111 2px;
